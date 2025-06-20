@@ -1,4 +1,8 @@
-"/*" 
-"!/backend/" 
-"!/frontend/" 
-".gitignore" 
+# Ignore VSCode settings
+.vscode/
+
+# Ignore Firebase local files
+firebase-debug.log
+firebase.json
+firestore.indexes.json
+firestore.rules
