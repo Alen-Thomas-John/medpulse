@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389224186267",
+    "project_id": "medplus3125",
+    "storage_bucket": "medplus3125.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389224186267:android:c847ae952d25587482e13e",
+        "android_client_info": {
+          "package_name": "com.example.cardiovascular_web"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSMOdideo10WzT_twpSSGfeVclUEEQC9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
