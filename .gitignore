@@ -1,7 +1,14 @@
-# Ignore VSCode settings
-.vscode/
+# Ignore everything
+*
 
-# Ignore Firebase local files
+# But not these folders and all their contents
+!backend/
+!backend/**
+!frontend/
+!frontend/**
+
+# Also ignore:
+.vscode/
 firebase-debug.log
 firebase.json
 firestore.indexes.json
